@@ -78,7 +78,7 @@ custom_replacements = {
 This variable can be used to apply tags to all resources that support it. Some resources allow overriding these tags.
 */
 tags = {
-  deployed_by = "terraform"
+  deployed_by = "Constantin"
   source      = "Azure Landing Zones Accelerator"
 }
 
