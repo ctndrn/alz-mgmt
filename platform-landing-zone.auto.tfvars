@@ -167,7 +167,7 @@ tags = {
   organization      = "lner"
   owner             = "IT"
   creator           = "terraform"
-  repo              = "alz-mgmt"
+  repo              = "infra-iac-azure-landingzone"
 }
 
 /*
