@@ -14,7 +14,7 @@ on:
 
 jobs:
   validate_and_plan:
-    uses: ctndrn/alz-mgmt-templates/.github/workflows/ci-template.yaml@main
+    uses: ctndrn/infra-iac-azure-templates/.github/workflows/ci-template.yaml@main
     name: 'CI'
     permissions:
       id-token: write
